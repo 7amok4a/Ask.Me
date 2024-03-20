@@ -1,0 +1,3 @@
+/home/matter/CLionProjects/Ask Me/cmake-build-debug/CMakeFiles/Ask_Me.dir
+/home/matter/CLionProjects/Ask Me/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matter/CLionProjects/Ask Me/cmake-build-debug/CMakeFiles/rebuild_cache.dir
